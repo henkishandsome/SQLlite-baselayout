@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="BookStore"></dbname>
+<!--    升级数据库只需要直接修改想改的内容，然后将版本号加一-->
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.app1210.bean.Book"></mapping>
+    </list>
+</litepal>
